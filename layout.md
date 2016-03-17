@@ -1,3 +1,4 @@
 untitled.html
 Keffiyeh_drinking_vinegar_vice_cardigan__.html
+figures/figure_1/figure_1.png
 Kinfolk_schlitz_gentrify_authentic_1__.html
